@@ -152,10 +152,6 @@ PRODUCT_COPY_FILES += \
 # GPS (TheMuppets Motorola msm8226-common)
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/armani/proprietary/vendor/bin/location-mq:system/vendor/bin/location-mq \
-    vendor/xiaomi/armani/proprietary/vendor/etc/gps.conf:system/vendor/etc/gps.conf \
-    vendor/xiaomi/armani/proprietary/vendor/etc/izat.conf:system/vendor/etc/izat.conf \
-    vendor/xiaomi/armani/proprietary/vendor/etc/quipc.conf:system/vendor/etc/quipc.conf \
-    vendor/xiaomi/armani/proprietary/vendor/etc/sap.conf:system/vendor/etc/sap.conf \
     vendor/xiaomi/armani/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/xiaomi/armani/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/xiaomi/armani/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
